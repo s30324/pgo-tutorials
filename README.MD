@@ -1,3 +1,3 @@
 <Leon> <Sobota>
-<group 13c>
+<13c>
 <s30324>
